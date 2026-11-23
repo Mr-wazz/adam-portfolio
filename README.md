@@ -1,9 +1,9 @@
 # Adam O. Portfolio Website
 
-Static site (HTML, CSS, JS). No build step. Hosted on Vercel, deployed from the `main` branch of this repo.
+Static site (HTML, CSS, JS). No build step. Hosted on Netlify (settings in `netlify.toml`), deployed from the `main` branch. `vercel.json` is kept in case of a move to Vercel.
 
 ## How updates go live
-Every push to `main` deploys automatically on Vercel within about a minute.
+Every push to `main` deploys automatically on Netlify within about a minute.
 
 ## Files
 - `index.html`: all page content
